@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Belajar Maps</string>
+    <string name="title_activity_maps">Map Static</string>
+    <string name="title_activity_maps_dynamic">Map Dynamic</string>
+</resources>
